@@ -49,7 +49,7 @@ db.animal.insertMany([
     { "_id": 2, "animal_id": 2, "data_agendamento": ISODate("2023-0915"), "servico": "Tosa" }, 
     { "_id": 3, "animal_id": 3, "data_agendamento": ISODate("2023-0810"), "servico": "Banho e Tosa" }, 
     { "_id": 4, "animal_id": 4, "data_agendamento": ISODate("2023-0901"), "servico": "Banho" }, 
-    { "_id": 5, "animal_id": 5, "data_agendamento": ISODate("2023-07x05"), "servico": "Tosa" }, 
+    { "_id": 5, "animal_id": 5, "data_agendamento": ISODate("2023-0705"), "servico": "Tosa" }, 
     { "_id": 6, "animal_id": 6, "data_agendamento": ISODate("2023-0620"), "servico": "Banho" }, 
     { "_id": 7, "animal_id": 7, "data_agendamento": ISODate("2023-1005"), "servico": "Banho e Tosa" }, 
     { "_id": 8, "animal_id": 8, "data_agendamento": ISODate("2023-0501"), "servico": "Tosa" }, 
